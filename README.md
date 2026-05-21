@@ -3,6 +3,7 @@
 My primary digital portfolio website showcases my engineering background, technical tool stack, and functional web applications.
 
 Main Sections
+
   Hero & About Me – Introduction to my front-end development philosophy and career trajectory.
   
   Skill Matrix – Organised display highlighting my proficiency in core web technologies.
