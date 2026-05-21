@@ -5,7 +5,7 @@ My primary digital portfolio website showcases my engineering background, techni
 Main Sections
   1. Hero & About Me – Introduction to my front-end development philosophy and career trajectory.
   2. Skill Matrix – Organised display highlighting my proficiency in core web technologies.
-  3. Project Showcase – Visual cards linking directly to source repositories and live apps.\
+  3. Project Showcase – Visual cards linking directly to source repositories and live apps.
   4. Contact Gateway – Accessible networking form and structural links to social channels.
 
 Built With
