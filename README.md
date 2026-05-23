@@ -12,9 +12,3 @@ Built With
   1. Technologies: HTML5, CSS3, Vanilla JavaScript
   2. Layouts: Mobile-first architecture, Custom Media Queries, Flexbox
 
-Local Setup
-  1. Clone the project:
-     ```bash
-     git clone https://github.com
-     ```
-  2. Open the directory and launch `index.html`.
